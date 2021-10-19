@@ -1,0 +1,10 @@
+G:\CST 226\Lab9\bin\Debug\Lab9.exe.config
+G:\CST 226\Lab9\bin\Debug\Lab9.exe
+G:\CST 226\Lab9\bin\Debug\Lab9.pdb
+G:\CST 226\Lab9\bin\Debug\Lab9.xml
+G:\CST 226\Lab9\obj\Debug\Lab9.gameForm.resources
+G:\CST 226\Lab9\obj\Debug\Lab9.Resources.resources
+G:\CST 226\Lab9\obj\Debug\Lab9.vbproj.GenerateResource.Cache
+G:\CST 226\Lab9\obj\Debug\Lab9.exe
+G:\CST 226\Lab9\obj\Debug\Lab9.xml
+G:\CST 226\Lab9\obj\Debug\Lab9.pdb
